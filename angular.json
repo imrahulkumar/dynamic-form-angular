@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "dynamic-form-angular"
+    }
+  },
+  "defaultProject": "dynamic-form-angular",
+  "cli": {
+    "analytics": "e6e1fdc3-bc44-4022-a00e-7142bbc8769c"
+  }
 }
